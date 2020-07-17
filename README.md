@@ -4,7 +4,7 @@ En este repositorio guardo los Notebooks de jupyter con los retos de programaci√
 
 Haciendo clik aqui abajo se puede correr un ambiente de jupyter y ver y ejectuar el codigo de cada reto. <br>
 
-$$\text{[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/waco527/retos_platzi/master)}$$
+                                         [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/waco527/retos_platzi/master)
 
 
 En los notebooks de jupyter para ejecutar una celda con un c√≥digo simplemente hay que oprimir shift + 
