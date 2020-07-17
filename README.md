@@ -6,5 +6,6 @@ Haciendo clik aqui abajo se puede correr un ambiente de jupyter y ver y ejectuar
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/waco527/retos_platzi/master)
 
+
 En los notebooks de jupyter para ejecutar una celda con un código simplemente hay que oprimir shift + 
 
