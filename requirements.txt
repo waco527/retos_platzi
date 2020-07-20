@@ -1,0 +1,8 @@
+math
+random
+mathlib
+numpy
+matplotlib
+seaborn
+uncertainties
+pandas
