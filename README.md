@@ -9,3 +9,13 @@ Haciendo clik aqui abajo se puede correr un ambiente de jupyter y ver y ejectuar
 
 En los notebooks de jupyter para ejecutar una celda con un código simplemente hay que oprimir shift + 
 
+los retos de platzi se pueden encontrar aqui: 
+
+Primera parte: https://platzi.com/blog/ejercicios-programacion/
+Segunda parte: https://platzi.com/blog/ejercicios-programacion-condicionales/
+Tercera parte: https://platzi.com/blog/ejercicios-programacion-strings/
+Cuarta parte: https://platzi.com/blog/ejercicios-programacion-matematicas/
+Quinta parte: https://platzi.com/blog/ejercicios-programacion-ciclo-for/
+Sexta parte: https://platzi.com/blog/ejercicios-programacion-ciclo-while/
+
+El archivo requirements.txt carga las librerias basicas para poder correr un ambiente interactivo de los notebooks de jupyter utilizando Binder
